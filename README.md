@@ -1,7 +1,4 @@
 # Retail Sales Performance Analysis – Microsoft Excel 
-Data Analysis Portfolio 
-
-Project 
 
 ## Executive Summary 
 JPT Retail Stores Ltd achieved total revenue of $1,787,419.92, of which profit was $453,870.44 from 1,825 
