@@ -1,6 +1,6 @@
-# Data-Analysis
+# Retail Sales Performance Analysis – Microsoft Excel 
 Data Analysis Portfolio 
-Retail Sales Performance Analysis – Microsoft Excel 
+
 Project 
 
 ## Executive Summary 
