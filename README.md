@@ -46,4 +46,4 @@ Promote Books and Electronics through targeted marketing.
 
 ## Skills Demonstrated
 
-Data cleaning, Data Analysis, Critical Thinking..
+Data cleaning, Data Analysis, Critical Thinking.
