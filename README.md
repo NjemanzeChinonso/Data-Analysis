@@ -57,7 +57,7 @@ Figures below come from the cleaned table (7,969 records).
 
 ## Executive report
 
-The [executive report (PDF)](Njemanze_Chinonso_Executive_Report_week2.pdf) summarises the findings for a non-technical audience and recommends three actions: review capacity and staffing in the South region, analyse bed use and discharge workflow for Heart Failure, Sepsis and Stroke (the longest stays), and expand post-discharge care coordination for the five highest-risk diagnoses. Its tables were built from the 8,010-record raw extract, so its counts differ slightly from the cleaned-table figures in this README and on the dashboard.
+The [executive report (PDF)](Njemanze Chinonso Executive_Report week2.pdf) summarises the findings for a non-technical audience and recommends three actions: review capacity and staffing in the South region, analyse bed use and discharge workflow for Heart Failure, Sepsis and Stroke (the longest stays), and expand post-discharge care coordination for the five highest-risk diagnoses. Its tables were built from the 8,010-record raw extract, so its counts differ slightly from the cleaned-table figures in this README and on the dashboard.
 
 ## Workbook guide
 
